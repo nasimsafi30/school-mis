@@ -1,0 +1,3 @@
+scripts/
+src/emails/
+src/lib/notification-service.ts
